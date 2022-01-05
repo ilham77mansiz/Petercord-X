@@ -1,0 +1,1 @@
+bot: bash DEPLOY.sh
