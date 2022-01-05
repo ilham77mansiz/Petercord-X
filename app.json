@@ -59,7 +59,7 @@
       "value": "Asia/Jakarta"
     },
     "STRINGSESSION": {
-      "description": "String Session, Run string_gen.py to get String Session.",
+      "description": "String Session, Ambil string pyrogram ",
       "value": ""
     }
   },
